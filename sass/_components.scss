@@ -1,0 +1,26 @@
+.card {
+
+  &__head {
+    
+  }
+
+  &__img {
+    width: 100%;
+    border-radius: .5rem;
+  }
+
+  &__heading {
+    width: 80%;
+    font-size: 2rem;
+    justify-self: center;
+  }
+
+  &__text {
+    width: 70%;
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin-bottom: 2rem;
+    justify-self: center;
+  }
+
+}
